@@ -1,0 +1,3 @@
+# Module sample_atm
+# RPC service class, partial path of RPC policy file
+com.rhem.GreetingService, 4023773E5342AF032F17751EDB9EE210.gwt.rpc

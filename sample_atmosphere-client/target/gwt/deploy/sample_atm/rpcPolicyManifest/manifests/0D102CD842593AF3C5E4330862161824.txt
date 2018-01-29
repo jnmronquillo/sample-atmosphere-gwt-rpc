@@ -1,0 +1,2 @@
+serviceClass: com.rhem.GreetingService
+path: 4023773E5342AF032F17751EDB9EE210.gwt.rpc
